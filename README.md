@@ -1,4 +1,4 @@
-# jwt-quarkus-provider
+# Quarkus - jwt-quarkus-provider
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
